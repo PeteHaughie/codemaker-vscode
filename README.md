@@ -29,7 +29,7 @@ Following programming languages are supported:
 * Rust
 * Kotlin
 
-More language support is comming soon.
+More language support is coming soon.
 
 ## Getting started
 
